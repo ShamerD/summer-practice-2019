@@ -10,3 +10,5 @@ The tasks are following:
   
   ## 3. Traffic sign classification using HOG and SVM.
   Histograms Of Gradients feature extraction algorithm was implemented. Support Vector Machine was trained and tested to classify traffic signs. 
+
+  ### NOTE! Tests are not full. They are here to show format.
